@@ -6,4 +6,3 @@ print('WELCOME'.center(length, '-'))
 for i in range(height // 2 - 1, -1, -1):
     s = '.|.' * (i * 2 + 1)
     print(s.center(length,'-'))
-    
