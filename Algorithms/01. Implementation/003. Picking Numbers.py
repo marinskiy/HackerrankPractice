@@ -1,9 +1,12 @@
 def pickingNumbers(arr):
     result = 0
+    checked = set()
     for i in range(len(arr)):
-        maxCount = max(arr.count(arr[i]) + arr.count(arr[i] + 1), arr.count(arr[i]) + arr.count(arr[i] - 1))
-        if maxCount > result:
-            result = maxCount
+        if i not in checked:
+            maxCount = max(arr.count(arr[i]) + arr.count(arr[i] + 1), arr.count(arr[i]) + arr.count(arr[i] - 1))
+            if maxCount > result:
+                result = maxCount
+            checked.add(i)
     return result
 
 
