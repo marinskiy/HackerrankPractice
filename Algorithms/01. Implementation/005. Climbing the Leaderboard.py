@@ -1,3 +1,6 @@
+# This is the solution to https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+
+
 def climbingLeaderboard(leaderboard, aliceScores):
     rankings = createRankings(leaderboard)
     i = len(leaderboard) - 1

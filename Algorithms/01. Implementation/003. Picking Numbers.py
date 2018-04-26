@@ -1,3 +1,6 @@
+# This is the solution to https://www.hackerrank.com/challenges/picking-numbers
+
+
 def pickingNumbers(arr):
     result = 0
     checked = set()

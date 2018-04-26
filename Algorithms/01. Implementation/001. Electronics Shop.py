@@ -1,3 +1,6 @@
+# This is the solution to https://www.hackerrank.com/challenges/electronics-shop/problem
+
+
 def getMoneySpent(keyboards, drives, b):
     result = -1
     for i in range(1, len(keyboards)):

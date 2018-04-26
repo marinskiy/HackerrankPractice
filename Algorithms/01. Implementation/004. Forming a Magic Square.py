@@ -1,3 +1,6 @@
+# This is the solution to https://www.hackerrank.com/challenges/magic-square-forming
+
+
 def formingMagicSquare(square):
     allSquares = [
         [[4, 9, 2], [3, 5, 7], [8, 1, 6]],

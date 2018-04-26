@@ -1,3 +1,6 @@
+# This is the solution to https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+
+
 def catAndMouse(catA, catB, mouseC):
     distanceA = abs(catA - mouseC)
     distanceB = abs(catB - mouseC)
