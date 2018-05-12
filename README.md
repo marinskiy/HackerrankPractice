@@ -5,6 +5,5 @@
 </p>
 
 # Solutions to Hackerrank practice problems
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg)](https://github.com/marinskiy/HackerrankPractice)
-
+[![GitHub stars](https://img.shields.io/github/stars/marinskiy/HackerrankPractice.svg)](https://github.com/marinskiy/HackerrankPractice/stargazers)
 
