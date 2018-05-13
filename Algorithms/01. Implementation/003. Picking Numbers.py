@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/picking-numbers
+# Problem: https://www.hackerrank.com/challenges/picking-numbers
+# Score: 20
 
 
 def pickingNumbers(arr):

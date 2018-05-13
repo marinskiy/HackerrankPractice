@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/electronics-shop/problem
+# Problem https://www.hackerrank.com/challenges/electronics-shop/problem
+# Score: 15
 
 
 def getMoneySpent(keyboards, drives, b):

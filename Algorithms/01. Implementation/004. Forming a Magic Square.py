@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/magic-square-forming
+# Problem: https://www.hackerrank.com/challenges/magic-square-forming
+# Score: 20
 
 
 def formingMagicSquare(square):

@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+# Problem: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+# Score: 20
 
 
 def climbingLeaderboard(leaderboard, aliceScores):

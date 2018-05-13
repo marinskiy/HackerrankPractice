@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+# Problem: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+# Score: 15
 
 
 def catAndMouse(catA, catB, mouseC):
