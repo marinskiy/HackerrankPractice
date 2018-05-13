@@ -1,4 +1,5 @@
 import os
+import functools
 
 
 def getFoldersNames(path):
@@ -36,6 +37,7 @@ print('<p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src
 print(file=readmeFile)
 print('# Solutions to Hackerrank practice problems', file=readmeFile)
 print('This is a repository contains ' + str(getTotalNumberOfProblems()) + ' solutions to Hackerrank practice problems with Python and Oracle SQL.', file=readmeFile)
+print(file=readmeFile)
 print('Updated daily :) If you liked it please press a star.', file=readmeFile)
 print(file=readmeFile)
 print('[![GitHub last commit](https://img.shields.io/github/last-commit/marinskiy/HackerrankPractice.svg)](https://github.com/marinskiy/HackerrankPractice) ', file=readmeFile)
