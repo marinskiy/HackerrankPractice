@@ -56,7 +56,7 @@ for folder in folders:
         files = getFilesNames(os.path.join(os.getcwd(), folder, subfolder))
         for file in files:
             url, score = getProblemURLandScore(os.path.join(os.getcwd(), folder, subfolder, file))
-            print('        - ' + file.rsplit(".", 1)[0]
+            print('        - ' + "".join(file.split(".")[1:-1])[1:]
                   + ' [Problem](' + url
                   + ')'
                   + ' | [Solution]'
