@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/designer-door-mat/problem
+# Problem: https://www.hackerrank.com/challenges/designer-door-mat/problem
+# Score: 10
 
 
 height, length = map(int, input().split())

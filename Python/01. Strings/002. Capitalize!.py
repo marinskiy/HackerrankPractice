@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/capitalize/problem
+# Problem:  https://www.hackerrank.com/challenges/capitalize/problem
+# Score: 20
 
 
 st = input()

@@ -1,4 +1,6 @@
-# This is the solution to https://www.hackerrank.com/challenges/itertools-combinations/problem
+# Problem:  https://www.hackerrank.com/challenges/itertools-combinations/problem
+# Score: 10
+
 
 import itertools
 
