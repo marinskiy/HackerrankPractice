@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/challenges/arrays-ds/problem
+# Problem: https://www.hackerrank.com/challenges/arrays-ds/problem
+# Score: 10
 
 
 def reverseArray(arr):
