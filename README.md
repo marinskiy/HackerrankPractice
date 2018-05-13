@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This is a repository contains 43 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 44 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If you liked it please press a star.
 
@@ -60,6 +60,7 @@ Updated daily :) If you liked it please press a star.
         - 012. Weather Observation Station 15 [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/012.%20Weather%20Observation%20Station%2015.sql) | Score: 15
         - 013. Weather Observation Station 16 [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/013.%20Weather%20Observation%20Station%2016.sql) | Score: 10
         - 014. Weather Observation Station 17 [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/014.%20Weather%20Observation%20Station%2017.sql) | Score: 15
+        - 015. Weather Observation Station 18 [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/015.%20Weather%20Observation%20Station%2018.sql) | Score: 25
     04. Basic Join
         - 001. Asian Population [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/001.%20Asian%20Population.sql) | Score: 10
         - 002. African Cities [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql) | Score: 10
