@@ -22,7 +22,7 @@ for folder in folders:
         print('    ' + subfolder)
         files = getFilesNames(os.path.join(os.getcwd(), folder, subfolder))
         for file in files:
-            print('        - [' + file + ']'
+            print('        - [' + file.rsplit(".", 1)[0] + ']'
                   + '(https://github.com/marinskiy/HackerrankPractice/blob/master/'
                   + folder.replace(' ', '%20') + '/' + subfolder.replace(' ', '%20') + '/'
                   + file.replace(' ', '%20') + ')')
