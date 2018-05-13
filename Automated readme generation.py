@@ -15,11 +15,12 @@ def getFilesNames(path):
     return files
 
 
-def getProblemURL(path):
+def getProblemURLandScore(path):
     inFile = open(path, 'r', encoding='utf-8')
     url = inFile.readline().split()[-1]
+    score = inFile.readline().split()[-1]
     inFile.close()
-    return url
+    return url, score
 
 
 def getTotalNumberOfProblems():
@@ -54,12 +55,14 @@ for folder in folders:
         print('    ' + subfolder, file=readmeFile)
         files = getFilesNames(os.path.join(os.getcwd(), folder, subfolder))
         for file in files:
+            url, score = getProblemURLandScore(os.path.join(os.getcwd(), folder, subfolder, file))
             print('        - ' + file.rsplit(".", 1)[0]
-                  + ' [Problem](' + getProblemURL(os.path.join(os.getcwd(), folder, subfolder, file))
+                  + ' [Problem](' + url
                   + ')'
-                  + ' [Solution]'
+                  + ' | [Solution]'
                   + '(https://github.com/marinskiy/HackerrankPractice/blob/master/'
                   + folder.replace(' ', '%20') + '/' + subfolder.replace(' ', '%20') + '/'
-                  + file.replace(' ', '%20') + ')', file=readmeFile)
+                  + file.replace(' ', '%20') + ')'
+                  + ' | Score: ' + str(score), file=readmeFile)
 
 readmeFile.close()
