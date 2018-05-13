@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/average-population-of-each-continent/problem
+-- # Problem: https://www.hackerrank.com/challenges/average-population-of-each-continent/problem
+-- # Score: 10
 
 
 SELECT COUNTRY.CONTINENT, FLOOR(AVG(CITY.POPULATION))

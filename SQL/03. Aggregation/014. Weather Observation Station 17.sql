@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/weather-observation-station-17/problem
+-- # Problem: https://www.hackerrank.com/challenges/weather-observation-station-17/problem
+-- # Score: 15
 
 
 SELECT *

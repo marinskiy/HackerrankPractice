@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/the-report/problem
+-- # Problem: https://www.hackerrank.com/challenges/the-report/problem
+-- # Score: 20
 
 
 SELECT

@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/the-blunder/problem
+-- # Problem: https://www.hackerrank.com/challenges/the-blunder/problem
+-- # Score: 15
 
 
 SELECT CEIL(AVG(Salary) - AVG(REPLACE(Salary, '0', '')))

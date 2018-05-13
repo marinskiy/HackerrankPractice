@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem
+-- # Problem: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem
+-- # Score: 10
 
 
 SELECT AVG(Population)

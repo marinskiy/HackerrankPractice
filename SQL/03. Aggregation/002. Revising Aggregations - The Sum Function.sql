@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/revising-aggregations-sum/problem
+-- # Problem: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem
+-- # Score: 10
 
 
 SELECT SUM(Population)

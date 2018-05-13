@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/asian-population/problem
+-- # Problem: https://www.hackerrank.com/challenges/asian-population/problem
+-- # Score: 10
 
 
 SELECT SUM(CITY.POPULATION)

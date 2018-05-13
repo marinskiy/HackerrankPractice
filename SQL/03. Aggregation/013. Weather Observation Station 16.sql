@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/weather-observation-station-16/problem
+-- # Problem: https://www.hackerrank.com/challenges/weather-observation-station-16/problem
+-- # Score: 10
 
 
 SELECT ROUND(MIN(Lat_N), 4)

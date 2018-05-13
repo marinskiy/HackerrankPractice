@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/earnings-of-employees/problem
+-- # Problem: https://www.hackerrank.com/challenges/earnings-of-employees/problem
+-- # Score: 20
 
 
 SELECT *

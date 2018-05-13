@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/weather-observation-station-5/problem
+-- # Problem: https://www.hackerrank.com/challenges/weather-observation-station-5/problem
+-- # Score: 30
 
 
 SELECT *

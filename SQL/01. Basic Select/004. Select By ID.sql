@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/select-by-id/problem
+-- # Problem: https://www.hackerrank.com/challenges/select-by-id/problem
+-- # Score: 10
 
 
 SELECT *

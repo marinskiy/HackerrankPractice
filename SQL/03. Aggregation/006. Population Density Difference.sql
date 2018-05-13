@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/population-density-difference/problem
+-- # Problem: https://www.hackerrank.com/challenges/population-density-difference/problem
+-- # Score: 10
 
 
 SELECT MAX(Population) - MIN(Population)

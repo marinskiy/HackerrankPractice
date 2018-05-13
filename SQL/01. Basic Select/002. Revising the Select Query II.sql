@@ -1,4 +1,5 @@
--- This is the solution to https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
+-- # Problem: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
+-- # Score: 10
 
 
 SELECT NAME
