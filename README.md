@@ -22,12 +22,12 @@ Updated daily :) If you liked it please press a star.
     01. Arrays
         - Arrays - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Data%20Structures/01.%20Arrays/001.%20Arrays%20-%20DS.py) | Score: 10
 - Python
-    01. Strings
-        - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Strings/001.%20Designer%20Door%20Mat.py) | Score: 10
-        - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Strings/002.%20Capitalize!.py) | Score: 20
-    02. Itertools
-        - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Itertools/001.%20itertools.product().py) | Score: 10
-        - itertoolscombinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Itertools/002.%20itertools.combinations().py) | Score: 10
+    03. Strings
+        - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/001.%20Designer%20Door%20Mat.py) | Score: 10
+        - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/002.%20Capitalize!.py) | Score: 20
+    06. Itertools
+        - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
+        - itertoolscombinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/002.%20itertools.combinations().py) | Score: 10
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
