@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 52 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 53 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If you liked it please press a star.
 
@@ -28,7 +28,8 @@ Updated daily :) If you liked it please press a star.
         - Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/70402456) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/003.%20Arithmetic%20Operators.py) | Score: 10
         - Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/004.%20Python%20Division.py) | Score: 10
         - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/005.%20Loops.py) | Score: 10
-        - Write a function | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/006.%20Write%20a%20function.py) | Score: 10
+        - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/006.%20Write%20a%20function.py) | Score: 10
+        - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/007.%20Print%20Function.py) | Score: 20
     03. Strings
         - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/001.%20Designer%20Door%20Mat.py) | Score: 10
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/002.%20Capitalize!.py) | Score: 20
