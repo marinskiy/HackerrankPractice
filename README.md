@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 45 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 47 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If you liked it please press a star.
 
@@ -63,6 +63,8 @@ Updated daily :) If you liked it please press a star.
         - Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/013.%20Weather%20Observation%20Station%2016.sql) | Score: 10
         - Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/014.%20Weather%20Observation%20Station%2017.sql) | Score: 15
         - Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/015.%20Weather%20Observation%20Station%2018.sql) | Score: 25
+        - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/016.%20Weather%20Observation%20Station%2019.sql) | Score: 30
+        - Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/017.%20Weather%20Observation%20Station%2020.sql) | Score: 40
     04. Basic Join
         - Asian Population | [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/001.%20Asian%20Population.sql) | Score: 10
         - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql) | Score: 10
