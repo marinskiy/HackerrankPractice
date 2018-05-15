@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 55 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 56 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If you liked it please press a star.
 
@@ -54,6 +54,8 @@ Updated daily :) If you liked it please press a star.
         - Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/014.%20Weather%20Observation%20Station%209.sql) | Score: 10
         - Weather Observation Station 10 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/015.%20Weather%20Observation%20Station%2010.sql) | Score: 10
         - Weather Observation Station 11 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/016.%20Weather%20Observation%20Station%2011.sql) | Score: 15
+        - Weather Observation Station 12 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/017.%20Weather%20Observation%20Station%2012.sql) | Score: 15
+    02. Advanced Select
     03. Aggregation
         - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Score: 10
         - Revising Aggregations - The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/002.%20Revising%20Aggregations%20-%20The%20Sum%20Function.sql) | Score: 10
@@ -77,3 +79,5 @@ Updated daily :) If you liked it please press a star.
         - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql) | Score: 10
         - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/003.%20Average%20Population%20of%20Each%20Continent.sql) | Score: 10
         - The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql) | Score: 20
+    05. Advanced Join
+    06. Alternative Queries
