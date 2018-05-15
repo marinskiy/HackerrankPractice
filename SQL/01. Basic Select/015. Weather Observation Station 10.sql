@@ -4,4 +4,4 @@
 
 SELECT DISTINCT City
 FROM Station
-WHERE SUBSTR (CITY, LENGTH(City), 1) NOT IN ('a', 'e', 'i', 'o', 'u');
+WHERE REGEXP_LIKE(City, '[^aeiou]$');
