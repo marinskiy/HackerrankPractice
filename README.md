@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 53 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 54 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If you liked it please press a star.
 
@@ -52,6 +52,7 @@ Updated daily :) If you liked it please press a star.
         - Weather Observation Station 7 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/012.%20Weather%20Observation%20Station%207.sql) | Score: 10
         - Weather Observation Station 8 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/013.%20Weather%20Observation%20Station%208.sql) | Score: 15
         - Weather Observation Station 9 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/014.%20Weather%20Observation%20Station%209.sql) | Score: 10
+        - Weather Observation Station 10 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/015.%20Weather%20Observation%20Station%2010.sql) | Score: 10
     02. Advanced Select
     03. Aggregation
         - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Score: 10
