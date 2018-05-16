@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 57 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 58 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -56,6 +56,7 @@ Updated daily :) If it was helpful please press a star.
         - Weather Observation Station 11 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/016.%20Weather%20Observation%20Station%2011.sql) | Score: 15
         - Weather Observation Station 12 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/017.%20Weather%20Observation%20Station%2012.sql) | Score: 15
         - Higher Than 75 Marks | [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/018.%20Higher%20Than%2075%20Marks.sql) | Score: 15
+        - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/019.%20Employee%20Names.sql) | Score: 10
     02. Advanced Select
     03. Aggregation
         - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Score: 10
