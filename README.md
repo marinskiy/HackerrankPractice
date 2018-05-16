@@ -3,7 +3,7 @@
 # Solutions to Hackerrank practice problems
 This repository contains 57 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
-Updated daily :) If you liked it please press a star.
+Updated daily :) If it was helpful please press a star.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/marinskiy/HackerrankPractice.svg)](https://github.com/marinskiy/HackerrankPractice) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/marinskiy/HackerrankPractice.svg)](https://github.com/marinskiy/HackerrankPractice)
