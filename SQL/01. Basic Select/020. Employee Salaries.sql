@@ -4,4 +4,4 @@
 
 SELECT Name
 FROM Employee
-WHERE Salary > 2000 AND Months < 10;
+WHERE Months < 10 AND Salary > 2000;
