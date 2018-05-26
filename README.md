@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 66 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 67 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -35,6 +35,7 @@ Updated daily :) If it was helpful please press a star.
         - String Split and Join | [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/002.%20String%20Split%20and%20Join.py) | Score: 10
         - What's Your Name | [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/003.%20What's%20Your%20Name.py) | Score: 10
         - Mutations | [Problem](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/004.%20Mutations.py) | Score: 10
+        - Find a string | [Problem](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/005.%20Find%20a%20string.py) | Score: 10
         - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/009.%20Designer%20Door%20Mat.py) | Score: 10
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/011.%20Capitalize!.py) | Score: 20
     06. Itertools
@@ -89,3 +90,5 @@ Updated daily :) If it was helpful please press a star.
         - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql) | Score: 10
         - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/003.%20Average%20Population%20of%20Each%20Continent.sql) | Score: 10
         - The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql) | Score: 20
+    05. Advanced Join
+    06. Alternative Queries
