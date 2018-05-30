@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 69 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 70 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -38,6 +38,7 @@ Updated daily :) If it was helpful please press a star.
         - Find a string | [Problem](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/005.%20Find%20a%20string.py) | Score: 10
         - String Validators | [Problem](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/006.%20String%20Validators.py) | Score: 10
         - Text Alignment | [Problem](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/007.%20Text%20Alignment.py) | Score: 10
+        - Text Wrap | [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/008.%20Text%20Wrap.py) | Score: 10
         - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/009.%20Designer%20Door%20Mat.py) | Score: 10
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/011.%20Capitalize!.py) | Score: 20
     06. Itertools
@@ -92,3 +93,5 @@ Updated daily :) If it was helpful please press a star.
         - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql) | Score: 10
         - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/003.%20Average%20Population%20of%20Each%20Continent.sql) | Score: 10
         - The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql) | Score: 20
+    05. Advanced Join
+    06. Alternative Queries
