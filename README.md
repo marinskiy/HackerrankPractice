@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 71 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 72 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -30,6 +30,8 @@ Updated daily :) If it was helpful please press a star.
         - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/005.%20Loops.py) | Score: 10
         - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/006.%20Write%20a%20function.py) | Score: 10
         - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/007.%20Print%20Function.py) | Score: 20
+    02. Basic Data Types
+        - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/001.%20List%20Comprehensions.py) | Score: 10
     03. Strings
         - sWAP cASE | [Problem](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/001.%20sWAP%20cASE.py) | Score: 10
         - String Split and Join | [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/002.%20String%20Split%20and%20Join.py) | Score: 10
@@ -94,5 +96,3 @@ Updated daily :) If it was helpful please press a star.
         - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql) | Score: 10
         - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/003.%20Average%20Population%20of%20Each%20Continent.sql) | Score: 10
         - The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql) | Score: 20
-    05. Advanced Join
-    06. Alternative Queries
