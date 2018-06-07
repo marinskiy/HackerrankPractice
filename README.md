@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 73 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 74 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -33,6 +33,7 @@ Updated daily :) If it was helpful please press a star.
     02. Basic Data Types
         - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/001.%20List%20Comprehensions.py) | Score: 10
         - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/002.%20Find%20the%20Runner-Up%20Score!.py) | Score: 10
+        - Nested Lists | [Problem](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/003.%20Nested%20Lists.py) | Score: 10
     03. Strings
         - sWAP cASE | [Problem](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/001.%20sWAP%20cASE.py) | Score: 10
         - String Split and Join | [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/002.%20String%20Split%20and%20Join.py) | Score: 10
