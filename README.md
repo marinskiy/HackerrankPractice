@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 76 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 78 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -35,6 +35,8 @@ Updated daily :) If it was helpful please press a star.
         - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/002.%20Find%20the%20Runner-Up%20Score!.py) | Score: 10
         - Nested Lists | [Problem](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/003.%20Nested%20Lists.py) | Score: 10
         - Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/004.%20Finding%20the%20percentage.py) | Score: 10
+        - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/005.%20Lists.py) | Score: 10
+        - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/02.%20Basic%20Data%20Types/006.%20Tuples.py) | Score: 10
     03. Strings
         - sWAP cASE | [Problem](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/001.%20sWAP%20cASE.py) | Score: 10
         - String Split and Join | [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/002.%20String%20Split%20and%20Join.py) | Score: 10
