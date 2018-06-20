@@ -1,7 +1,9 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
+[![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
+
 # Solutions to Hackerrank practice problems
-This repository contains 78 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 79 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -11,13 +13,15 @@ Updated daily :) If it was helpful please press a star.
 [![GitHub stars](https://img.shields.io/github/stars/marinskiy/HackerrankPractice.svg)](https://github.com/marinskiy/HackerrankPractice)
 
 - Algorithms
-    01. Implementation
-        - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Implementation/001.%20Electronics%20Shop.py) | Score: 15
-        - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Implementation/002.%20Cats%20and%20a%20Mouse.py) | Score: 15
-        - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Implementation/003.%20Picking%20Numbers.py) | Score: 20
-        - Forming a Magic Square | [Problem](https://www.hackerrank.com/challenges/magic-square-forming) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Implementation/004.%20Forming%20a%20Magic%20Square.py) | Score: 20
-        - Climbing the Leaderboard | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Implementation/005.%20Climbing%20the%20Leaderboard.py) | Score: 20
-        - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Implementation/006.%20The%20Hurdle%20Race.py) | Score: 15
+    01. Warmup
+        - Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/002.%20Simple%20Array%20Sum.py) | Score: 10
+    02. Implementation
+        - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/001.%20Electronics%20Shop.py) | Score: 15
+        - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/002.%20Cats%20and%20a%20Mouse.py) | Score: 15
+        - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/003.%20Picking%20Numbers.py) | Score: 20
+        - Forming a Magic Square | [Problem](https://www.hackerrank.com/challenges/magic-square-forming) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/004.%20Forming%20a%20Magic%20Square.py) | Score: 20
+        - Climbing the Leaderboard | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/005.%20Climbing%20the%20Leaderboard.py) | Score: 20
+        - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/006.%20The%20Hurdle%20Race.py) | Score: 15
 - Data Structures
     01. Arrays
         - Arrays - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Data%20Structures/01.%20Arrays/001.%20Arrays%20-%20DS.py) | Score: 10
@@ -50,7 +54,7 @@ Updated daily :) If it was helpful please press a star.
         - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/010.%20String%20Formatting.py) | Score: 10
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/011.%20Capitalize!.py) | Score: 20
     04. Sets
-        - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/001.%20Introduction%20to%20Sets.py) | Score: 10
+        - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/001.%20Introduction%20to%20Sets.py) | Score: 10
     06. Itertools
         - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
         - itertoolscombinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/002.%20itertools.combinations().py) | Score: 10
