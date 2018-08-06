@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 81 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 82 solutions to Hackerrank practice problems with Python and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -14,6 +14,7 @@ Updated daily :) If it was helpful please press a star.
 
 - Algorithms
     01. Warmup
+        - Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/001.%20Solve%20Me%20First.py) | Score: 1
         - Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/002.%20Simple%20Array%20Sum.py) | Score: 10
         - Compare the Triplets | [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/003.%20Compare%20the%20Triplets.py) | Score: 10
         -  | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/004.%20A%20Very%20Big%20Sum) | Score: 10
