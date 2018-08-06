@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 83 solutions to Hackerrank practice problems with Python and Oracle SQL.
+This repository contains 84 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -19,6 +19,7 @@ Updated daily :) If it was helpful please press a star.
         - Compare the Triplets | [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/003.%20Compare%20the%20Triplets.py) | Score: 10
         - A Very Big Sum | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/004.%20A%20Very%20Big%20Sum.py) | Score: 10
         - Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/005.%20Diagonal%20Difference.py) | Score: 10
+        - Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/006.%20Plus%20Minus.py) | Score: 10
     02. Implementation
         - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/001.%20Electronics%20Shop.py) | Score: 15
         - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/002.%20Cats%20and%20a%20Mouse.py) | Score: 15
