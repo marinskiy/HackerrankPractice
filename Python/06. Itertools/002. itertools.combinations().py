@@ -5,14 +5,7 @@
 import itertools
 
 
-def printCombinations(string, number):
-    string = sorted(string)
-    for i in range(1, number + 1):
-        combinationsList = list(itertools.combinations(string, i))
-        for j in combinationsList:
-            print(''.join(j))
-
-
 s = input().split()
-string, number = s[0], int(s[1])
-printCombinations(string, number)
+string, number = sorted(s[0]), int(s[1])
+for i in range(1, number + 1):
+    print(*list(map(''.join, itertools.combinations(string, i))), sep='\n')
