@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 86 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 88 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -64,6 +64,8 @@ Updated daily :) If it was helpful please press a star.
         - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
         - itertoolscombinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/002.%20itertools.combinations().py) | Score: 10
         - itertoolspermutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/003.%20itertools.permutations().py) | Score: 10
+        - itertoolscombinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/004.%20itertools.combinations_with_replacement().py) | Score: 10
+        - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/005.%20Compress%20the%20String!.py) | Score: 20
     07. Collections
         - collectionsCounter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/001.%20collections.Counter().py) | Score: 10
 - SQL
