@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 88 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 89 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -20,6 +20,7 @@ Updated daily :) If it was helpful please press a star.
         - A Very Big Sum | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/004.%20A%20Very%20Big%20Sum.py) | Score: 10
         - Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/005.%20Diagonal%20Difference.py) | Score: 10
         - Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/006.%20Plus%20Minus.py) | Score: 10
+        - Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/007.%20Staircase.py) | Score: 10
     02. Implementation
         - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/001.%20Electronics%20Shop.py) | Score: 15
         - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/002.%20Cats%20and%20a%20Mouse.py) | Score: 15
@@ -117,5 +118,3 @@ Updated daily :) If it was helpful please press a star.
         - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/002.%20African%20Cities.sql) | Score: 10
         - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/003.%20Average%20Population%20of%20Each%20Continent.sql) | Score: 10
         - The Report | [Problem](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/04.%20Basic%20Join/004.%20The%20Report.sql) | Score: 20
-    05. Advanced Join
-    06. Alternative Queries
