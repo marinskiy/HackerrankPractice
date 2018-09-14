@@ -2,7 +2,7 @@
 # Score: 10
 
 
-def breakingRecords(score):
+def breaking_records(score):
     min, max = score[0], score[0]
     min_count, max_count = 0, 0
     for i in score:
@@ -17,4 +17,4 @@ def breakingRecords(score):
 
 n = int(input())
 score = list(map(int, input().split()))
-print(*breakingRecords(score))
+print(*breaking_records(score))
