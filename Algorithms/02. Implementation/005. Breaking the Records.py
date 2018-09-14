@@ -3,9 +3,9 @@
 
 
 def breaking_records(score):
-    min, max = score[0], score[0]
-    min_count, max_count = 0, 0
-    for i in score:
+    min = max = score[0]
+    min_count = max_count = 0
+    for i in score[1:]:
         if i > max:
             max_count += 1
             max = i
