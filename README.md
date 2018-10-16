@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 101 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 102 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -73,6 +73,7 @@ Updated daily :) If it was helpful please press a star.
         - Set add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/004.%20Set%20add().py) | Score: 10
         - Set discard() remove() pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/005.%20Set%20discard()%20remove()%20pop().py) | Score: 10
         - Set union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/006.%20Set%20union()%20Operation.py) | Score: 10
+        - Set intersection() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/007.%20Set%20intersection()%20Operation.py) | Score: 10
     06. Itertools
         - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
         - itertoolscombinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/002.%20itertools.combinations().py) | Score: 10
