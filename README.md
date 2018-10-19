@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 103 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 104 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -75,6 +75,7 @@ Updated daily :) If it was helpful please press a star.
         - Set union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/006.%20Set%20union()%20Operation.py) | Score: 10
         - Set intersection() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/007.%20Set%20intersection()%20Operation.py) | Score: 10
         - Set difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/008.%20Set%20difference()%20Operation.py) | Score: 10
+        - Set symmetric_difference() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/009.%20Set%20symmetric_difference()%20Operation.py) | Score: 10
     06. Itertools
         - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
         - itertoolscombinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/002.%20itertools.combinations().py) | Score: 10
