@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 107 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 108 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -79,6 +79,7 @@ Updated daily :) If it was helpful please press a star.
         - Set Mutations | [Problem](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/010.%20Set%20Mutations.py) | Score: 10
         - The Captain's Room | [Problem](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/011.%20The%20Captain's%20Room.py) | Score: 10
         - Check Subset | [Problem](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/012.%20Check%20Subset.py) | Score: 10
+        - Check Strict Superset | [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/013.%20Check%20Strict%20Superset.py) | Score: 10
     06. Itertools
         - itertoolsproduct() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
         - itertoolscombinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/06.%20Itertools/002.%20itertools.combinations().py) | Score: 10
