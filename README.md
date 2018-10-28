@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 108 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 109 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -69,6 +69,7 @@ Updated daily :) If it was helpful please press a star.
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/03.%20Strings/011.%20Capitalize!.py) | Score: 20
     04. Sets
         - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/001.%20Introduction%20to%20Sets.py) | Score: 10
+        - No Idea! | [Problem](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/002.%20No%20Idea!.py) | Score: 50
         - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/003.%20Symmetric%20Difference.py) | Score: 10
         - Set add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/004.%20Set%20add().py) | Score: 10
         - Set discard() remove() pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/04.%20Sets/005.%20Set%20discard()%20remove()%20pop().py) | Score: 10
