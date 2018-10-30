@@ -2,11 +2,6 @@
 # Score: 10
 
 
-n, m = map(int, input().split())
-a = list(map(int, input().split()))
-b = list(map(int, input().split()))
-count = 0
-for i in range(max(a), min(b)+1):
-    if all(i % x == 0 for x in a) and all(x % i == 0 for x in b):
-        count += 1
-print(count)
+_, a, b = input(), list(map(int, input().split())), list(map(int, input().split()))
+print(sum([all(i % x == 0 for x in a) and
+           all(x % i == 0 for x in b) for i in range(max(a), min(b)+1)]))
