@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 112 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 113 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -92,6 +92,7 @@ Updated daily :) If it was helpful please press a star.
     07. Collections
         - collectionsCounter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/001.%20collections.Counter().py) | Score: 10
         - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/002.%20DefaultDict%20Tutorial.py) | Score: 20
+        - Collections namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/003.%20Collections%20namedtuple().py) | Score: 20
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
