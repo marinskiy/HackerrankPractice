@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 116 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 117 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -96,6 +96,7 @@ Updated daily :) If it was helpful please press a star.
         - Collections namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/003.%20Collections%20namedtuple().py) | Score: 20
         - Collections OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/004.%20Collections%20OrderedDict().py) | Score: 20
         - Word Order | [Problem](https://www.hackerrank.com/challenges/word-order/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/005.%20Word%20Order.py) | Score: 50
+        - Collections deque() | [Problem](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/006.%20Collections%20deque().py) | Score: 20
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
