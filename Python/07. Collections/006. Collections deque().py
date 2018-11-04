@@ -8,7 +8,7 @@ from collections import deque
 d = deque()
 for _ in range(int(input())):
     line = input().split()
-    if  line[0] == 'append':
+    if line[0] == 'append':
         d.append(line[1])
     elif line[0] == 'pop':
         d.pop()
