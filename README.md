@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 115 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 116 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -30,6 +30,7 @@ Updated daily :) If it was helpful please press a star.
         - Kangaroo | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/003.%20Kangaroo.py) | Score: 10
         - Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/004.%20Between%20Two%20Sets.py) | Score: 10
         - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/005.%20Breaking%20the%20Records.py) | Score: 10
+        - Birthday Chocolate | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/006.%20Birthday%20Chocolate.py) | Score: 10
         - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/013.%20Electronics%20Shop.py) | Score: 15
         - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/014.%20Cats%20and%20a%20Mouse.py) | Score: 15
         - Forming a Magic Square | [Problem](https://www.hackerrank.com/challenges/magic-square-forming) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/015.%20Forming%20a%20Magic%20Square.py) | Score: 20
