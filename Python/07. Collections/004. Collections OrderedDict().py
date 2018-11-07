@@ -9,5 +9,4 @@ ordered_dictionary = OrderedDict()
 for _ in range(int(input())):
     item, price = input().rsplit(' ', 1)
     ordered_dictionary[item] = ordered_dictionary.get(item, 0) + int(price)
-for item in ordered_dictionary:
-    print(item, ordered_dictionary[item])
+[print(item, ordered_dictionary[item]) for item in ordered_dictionary]
