@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 120 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 121 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -98,6 +98,7 @@ Updated daily :) If it was helpful please press a star.
         - Word Order | [Problem](https://www.hackerrank.com/challenges/word-order/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/005.%20Word%20Order.py) | Score: 50
         - Collections deque() | [Problem](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/006.%20Collections%20deque().py) | Score: 20
         - Company Logo | [Problem](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/007.%20Company%20Logo.py) | Score: 30
+        - Piling Up! | [Problem](https://www.hackerrank.com/challenges/piling-up/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/07.%20Collections/008.%20Piling%20Up!.py) | Score: 50
     08. Date and Time
         - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/08.%20Date%20and%20Time/001.%20Calendar%20Module.py) | Score: 10
         - Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/08.%20Date%20and%20Time/002.%20Time%20Delta.py) | Score: 30
