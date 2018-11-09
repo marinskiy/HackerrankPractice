@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 121 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 122 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -102,6 +102,8 @@ Updated daily :) If it was helpful please press a star.
     08. Date and Time
         - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/08.%20Date%20and%20Time/001.%20Calendar%20Module.py) | Score: 10
         - Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/08.%20Date%20and%20Time/002.%20Time%20Delta.py) | Score: 30
+    09. Errors and Exceptions
+        - Exceptions | [Problem](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/09.%20Errors%20and%20Exceptions/001.%20Exceptions.py) | Score: 10
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
