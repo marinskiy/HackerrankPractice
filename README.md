@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 124 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 125 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -37,6 +37,8 @@ Updated daily :) If it was helpful please press a star.
         - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/016.%20Picking%20Numbers.py) | Score: 20
         - Climbing the Leaderboard | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/017.%20Climbing%20the%20Leaderboard.py) | Score: 20
         - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/018.%20The%20Hurdle%20Race.py) | Score: 15
+    08. Dynamic Programming
+        - Fibonacci Modified | [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/08.%20Fibonacci%20Modified.py) | Score: 45
 - Data Structures
     01. Arrays
         - Arrays - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Data%20Structures/01.%20Arrays/001.%20Arrays%20-%20DS.py) | Score: 10
