@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 126 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 127 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -39,6 +39,7 @@ Updated daily :) If it was helpful please press a star.
         - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/018.%20The%20Hurdle%20Race.py) | Score: 15
     07. Greedy
         - Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/07.%20Greedy/001.%20Minimum%20Absolute%20Difference%20in%20an%20Array.py) | Score: 15
+        - Permuting Two Arrays | [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/07.%20Greedy/014.%20Permuting%20Two%20Arrays.py) | Score: 40
     08. Dynamic Programming
         - Fibonacci Modified | [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/008.%20Fibonacci%20Modified.py) | Score: 45
 - Data Structures
