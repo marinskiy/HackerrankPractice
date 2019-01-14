@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 130 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 132 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -46,6 +46,8 @@ Updated daily :) If it was helpful please press a star.
         - Permuting Two Arrays | [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/07.%20Greedy/014.%20Permuting%20Two%20Arrays.py) | Score: 40
     08. Dynamic Programming
         - The Coin Change Problem | [Problem](https://www.hackerrank.com/challenges/coin-change/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/001.%20The%20Coin%20Change%20Problem.py) | Score: 60
+        - Equal | [Problem](https://www.hackerrank.com/challenges/equal/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/002.%20Equal.py) | Score: 30
+        - Sherlock and Cost | [Problem](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/003.%20Sherlock%20and%20Cost.py) | Score: 50
         - Fibonacci Modified | [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/008.%20Fibonacci%20Modified.py) | Score: 45
 - Data Structures
     01. Arrays
