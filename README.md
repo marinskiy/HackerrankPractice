@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 132 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 133 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -39,6 +39,7 @@ Updated daily :) If it was helpful please press a star.
         - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/018.%20The%20Hurdle%20Race.py) | Score: 15
     04. Sorting
         - Intro to Tutorial Challenges | [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/04.%20Sorting/001.%20Intro%20to%20Tutorial%20Challenges.py) | Score: 30
+        - Big Sorting | [Problem](https://www.hackerrank.com/challenges/big-sorting/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/04.%20Sorting/002.%20Big%20Sorting.py) | Score: 20
     05. Search
         - Pairs | [Problem](https://www.hackerrank.com/challenges/pairs/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/05.%20Search/007.%20Pairs.py) | Score: 50
     07. Greedy
