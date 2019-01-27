@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 133 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 135 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -49,6 +49,7 @@ Updated daily :) If it was helpful please press a star.
         - The Coin Change Problem | [Problem](https://www.hackerrank.com/challenges/coin-change/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/001.%20The%20Coin%20Change%20Problem.py) | Score: 60
         - Equal | [Problem](https://www.hackerrank.com/challenges/equal/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/002.%20Equal.py) | Score: 30
         - Sherlock and Cost | [Problem](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/003.%20Sherlock%20and%20Cost.py) | Score: 50
+        - Construct the Array | [Problem](https://www.hackerrank.com/challenges/construct-the-array/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/004.%20Construct%20the%20Array.py) | Score: 35
         - Fibonacci Modified | [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/008.%20Fibonacci%20Modified.py) | Score: 45
 - Data Structures
     01. Arrays
@@ -120,6 +121,7 @@ Updated daily :) If it was helpful please press a star.
         - Incorrect Regex | [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/09.%20Errors%20and%20Exceptions/002.%20Incorrect%20Regex.py) | Score: 20
     16. Numpy
         - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/16.%20Numpy/001.%20Arrays.py) | Score: 10
+        - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/16.%20Numpy/002.%20Shape%20and%20Reshape.py) | Score: 20
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
