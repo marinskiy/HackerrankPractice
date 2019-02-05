@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 135 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 137 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -44,6 +44,7 @@ Updated daily :) If it was helpful please press a star.
         - Pairs | [Problem](https://www.hackerrank.com/challenges/pairs/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/05.%20Search/007.%20Pairs.py) | Score: 50
     07. Greedy
         - Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/07.%20Greedy/001.%20Minimum%20Absolute%20Difference%20in%20an%20Array.py) | Score: 15
+        - Marc's Cakewalk | [Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/07.%20Greedy/002.%20Marc's%20Cakewalk.py) | Score: 15
         - Permuting Two Arrays | [Problem](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/07.%20Greedy/014.%20Permuting%20Two%20Arrays.py) | Score: 40
     08. Dynamic Programming
         - The Coin Change Problem | [Problem](https://www.hackerrank.com/challenges/coin-change/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/001.%20The%20Coin%20Change%20Problem.py) | Score: 60
@@ -51,6 +52,9 @@ Updated daily :) If it was helpful please press a star.
         - Sherlock and Cost | [Problem](https://www.hackerrank.com/challenges/sherlock-and-cost/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/003.%20Sherlock%20and%20Cost.py) | Score: 50
         - Construct the Array | [Problem](https://www.hackerrank.com/challenges/construct-the-array/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/004.%20Construct%20the%20Array.py) | Score: 35
         - Fibonacci Modified | [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/008.%20Fibonacci%20Modified.py) | Score: 45
+- Artificial Intelligence
+    Statistics and Machine Learning
+        - Laptop Battery Life | [Problem](https://www.hackerrank.com/challenges/battery/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Artificial%20Intelligence/Statistics%20and%20Machine%20Learning/001.%20Laptop%20Battery%20Life.py) | Score: 10
 - Data Structures
     01. Arrays
         - Arrays - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Data%20Structures/01.%20Arrays/001.%20Arrays%20-%20DS.py) | Score: 10
