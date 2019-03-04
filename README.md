@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 139 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 140 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -179,3 +179,4 @@ Updated daily :) If it was helpful please press a star.
     01. 10 Days of Statistics
         - Day 0 - Mean, Median, and Mode | [Problem](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/001.%20Day%200%20-%20Mean,%20Median,%20and%20Mode.py) | Score: 30
         - Day 0 - Weighted Mean | [Problem](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/002.%20Day%200%20-%20Weighted%20Mean.py) | Score: 30
+        - Day 1 - Quartiles | [Problem](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/003.%20Day%201%20-%20Quartiles.py) | Score: 30
