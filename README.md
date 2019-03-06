@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 144 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 145 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -184,3 +184,4 @@ Updated daily :) If it was helpful please press a star.
         - Day 1 - Standard Deviation | [Problem](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/005.%20Day%201%20-%20Standard%20Deviation.py) | Score: 30
         - Day 4 - Binomial Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/006.%20Day%204%20-%20Binomial%20Distribution%20I.py) | Score: 30
         - Day 4 - Binomial Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/007.%20Day%204%20-%20Binomial%20Distribution%20II.py) | Score: 30
+        - Day 4 - Geometric Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/008.%20Day%204%20-%20Geometric%20Distribution%20I.py) | Score: 30
