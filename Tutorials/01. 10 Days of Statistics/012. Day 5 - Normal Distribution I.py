@@ -13,6 +13,6 @@ mean = 20
 std = 2
 
 # Less than 19.5 hours
-print(round(cdf(19.5, 20, 2), 3))
+print(round(cdf(19.5, mean, std), 3))
 # Between 20 and 22 hours?
-print(round(cdf(22, 20, 2) - cdf(20, 20, 2), 3))
+print(round(cdf(22, mean, std) - cdf(20, mean, std), 3))
