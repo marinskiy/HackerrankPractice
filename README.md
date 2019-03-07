@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 149 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 150 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -189,3 +189,4 @@ Updated daily :) If it was helpful please press a star.
         - Day 5 - Poisson Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/010.%20Day%205%20-%20Poisson%20Distribution%20I.py) | Score: 30
         - Day 5 - Poisson Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/011.%20Day%205%20-%20Poisson%20Distribution%20II.py) | Score: 30
         - Day 5 - Normal Distribution I | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/012.%20Day%205%20-%20Normal%20Distribution%20I.py) | Score: 30
+        - Day 5 - Normal Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/013.%20Day%205%20-%20Normal%20Distribution%20II.py) | Score: 30
