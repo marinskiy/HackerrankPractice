@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 152 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 153 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -192,3 +192,4 @@ Updated daily :) If it was helpful please press a star.
         - Day 5 - Normal Distribution II | [Problem](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/013.%20Day%205%20-%20Normal%20Distribution%20II.py) | Score: 30
         - Day 6 - The Central Limit Theorem I | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/014.%20Day%206%20-%20The%20Central%20Limit%20Theorem%20I.py) | Score: 30
         - Day 6 - The Central Limit Theorem II | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/015.%20Day%206%20-%20The%20Central%20Limit%20Theorem%20II.py) | Score: 30
+        - Day 6 - The Central Limit Theorem III | [Problem](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Tutorials/01.%2010%20Days%20of%20Statistics/016.%20Day%206%20-%20The%20Central%20Limit%20Theorem%20III.py) | Score: 30
