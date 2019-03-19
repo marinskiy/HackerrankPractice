@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 157 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 158 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -64,6 +64,8 @@ Updated daily :) If it was helpful please press a star.
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/01.%20Warm-up%20Challenges/002.%20Counting%20Valleys.py) | Score: 15
         - Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/01.%20Warm-up%20Challenges/003.%20Jumping%20on%20the%20Clouds.py) | Score: 20
         - Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/01.%20Warm-up%20Challenges/004.%20Repeated%20String.py) | Score: 20
+    02. Arrays
+        - Arrays - Left Rotation | [Problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/02.%20Arrays/001.%20Arrays%20-%20Left%20Rotation.py) | Score: 20
 - Python
     01. Introduction
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py) | Score: 5
