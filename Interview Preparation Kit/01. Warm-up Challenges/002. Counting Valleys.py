@@ -1,5 +1,5 @@
-# Problem: https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
-# Score: 15
+# Problem: https://www.hackerrank.com/challenges/counting-valleys/problem
+#  Score: 15
 
 
 def counting_valleys(n, s):

@@ -1,5 +1,5 @@
-# Problem: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
-# Score: 20
+# Problem: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+#  Score: 20
 
 
 def jumping_on_clouds(n, c):
