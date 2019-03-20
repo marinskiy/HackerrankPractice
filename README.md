@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 161 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 162 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -69,6 +69,7 @@ Updated daily :) If it was helpful please press a star.
         - 2D Array - DS | [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/02.%20Arrays/002.%202D%20Array%20-%20DS.py) | Score: 15
         - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/02.%20Arrays/003.%20New%20Year%20Chaos.py) | Score: 40
         - Minimum Swaps 2 | [Problem](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/02.%20Arrays/004.%20Minimum%20Swaps%202.py) | Score: 40
+        - Array Manipulation | [Problem](https://www.hackerrank.com/challenges/crush/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/02.%20Arrays/005.%20Array%20Manipulation.py) | Score: 60
 - Python
     01. Introduction
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py) | Score: 5
