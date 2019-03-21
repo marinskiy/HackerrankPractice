@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 163 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 164 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -72,6 +72,7 @@ Updated daily :) If it was helpful please press a star.
         - Array Manipulation | [Problem](https://www.hackerrank.com/challenges/crush/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/02.%20Arrays/005.%20Array%20Manipulation.py) | Score: 60
     03. Dictionaries and Hashmaps
         - Hash Tables - Ransom Note | [Problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/03.%20Dictionaries%20and%20Hashmaps/001.%20Hash%20Tables%20-%20Ransom%20Note.py) | Score: 25
+        - Two Strings | [Problem](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/03.%20Dictionaries%20and%20Hashmaps/002.%20Two%20Strings.py) | Score: 25
 - Python
     01. Introduction
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py) | Score: 5
