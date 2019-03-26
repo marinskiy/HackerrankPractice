@@ -11,7 +11,7 @@ for t in range(int(input())):
 
     for i in range(1, len(s)):
         for j in range(len(s) - i + 1):
-            substrings[''.join(sorted(s[j:j+i]))] +=1
+            substrings[''.join(sorted(s[j:j+i]))] += 1
 
     ans = 0
     for key, value in substrings.items():
