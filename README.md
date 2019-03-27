@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 167 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 168 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -76,6 +76,8 @@ Updated daily :) If it was helpful please press a star.
         - Count Triplets | [Problem](https://www.hackerrank.com/challenges/count-triplets-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/03.%20Dictionaries%20and%20Hashmaps/003.%20Count%20Triplets.py) | Score: 25
         - Frequency Queries | [Problem](https://www.hackerrank.com/challenges/frequency-queries/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/03.%20Dictionaries%20and%20Hashmaps/004.%20Frequency%20Queries.py) | Score: 40
         - Sherlock and Anagrams | [Problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/03.%20Dictionaries%20and%20Hashmaps/005.%20Sherlock%20and%20Anagrams.py) | Score: 50
+    04. Sorting
+        - Sorting - Bubble Sort | [Problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/04.%20Sorting/001.%20Sorting%20-%20Bubble%20Sort.py) | Score: 30
 - Python
     01. Introduction
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py) | Score: 5
