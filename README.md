@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 170 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 171 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -81,6 +81,7 @@ Updated daily :) If it was helpful please press a star.
         - Mark and Toys | [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/04.%20Sorting/002.%20Mark%20and%20Toys.py) | Score: 35
     07. Search
         - Hash Tables - Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/07.%20Search/001.%20Hash%20Tables%20-%20Ice%20Cream%20Parlor.py) | Score: 35
+        - Minimum Time Required | [Problem](https://www.hackerrank.com/challenges/minimum-time-required/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/07.%20Search/002.%20Minimum%20Time%20Required.py) | Score: 35
 - Python
     01. Introduction
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py) | Score: 5
