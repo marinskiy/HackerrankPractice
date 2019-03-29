@@ -3,7 +3,7 @@
 [![Welcome to HackerrankPractice repo on GitHub](http://www.picshare.ru/uploads/180620/mx1ziVEugO.jpg)](https://youtu.be/RGE2GC8OCgk)
 
 # Solutions to Hackerrank practice problems
-This repository contains 171 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 173 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -82,6 +82,9 @@ Updated daily :) If it was helpful please press a star.
     07. Search
         - Hash Tables - Ice Cream Parlor | [Problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/07.%20Search/001.%20Hash%20Tables%20-%20Ice%20Cream%20Parlor.py) | Score: 35
         - Minimum Time Required | [Problem](https://www.hackerrank.com/challenges/minimum-time-required/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/07.%20Search/002.%20Minimum%20Time%20Required.py) | Score: 35
+        - Triple sum | [Problem](https://www.hackerrank.com/challenges/triple-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/07.%20Search/003.%20Triple%20sum.py) | Score: 40
+    08. Dynamic Programming
+        - Max Array Sum | [Problem](https://www.hackerrank.com/challenges/max-array-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit/08.%20Dynamic%20Programming/001.%20Max%20Array%20Sum.py) | Score: 20
 - Python
     01. Introduction
         - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py) | Score: 5
