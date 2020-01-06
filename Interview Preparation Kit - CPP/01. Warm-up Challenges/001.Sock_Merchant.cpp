@@ -3,26 +3,26 @@
 
 
 #include <iostream>
+using namespace std;
 
 
 int main()
 {
     int n;
     int element;
-    int arr[100] = {0};
+    int arr[101] = {0};
     int ans = 0;
 
-    std::cin >> n;
+    cin >> n;
 
     for (int i = 0; i < n; i++) {
-        std::cin >> element;
-        arr[element - 1] ++;
+        cin >> element;
+        arr[element] ++;
 
-        ans += arr[element - 1] / 2;
-        arr[element - 1] = arr[element - 1] % 2;
+        ans += arr[element] / 2;
+        arr[element] = arr[element] % 2;
     }
 
-    std::cout << ans;
-
+    cout << ans << endl;
     return 0;
 }
