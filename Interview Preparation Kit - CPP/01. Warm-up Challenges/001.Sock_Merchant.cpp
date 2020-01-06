@@ -1,10 +1,9 @@
 // Problem: https://www.hackerrank.com/challenges/sock-merchant/problem
 // Score: 10
 
-#include <iostream>
-#include <vector>
 
-using namespace std;
+#include <iostream>
+
 
 int main()
 {
@@ -16,7 +15,7 @@ int main()
     std::cin >> n;
 
     for (int i = 0; i < n; i++) {
-        cin >> element;
+        std::cin >> element;
         arr[element - 1] ++;
 
         ans += arr[element - 1] / 2;
