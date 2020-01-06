@@ -48,21 +48,22 @@ print('[![GitHub stars](https://img.shields.io/github/stars/marinskiy/Hackerrank
 print(file=readmeFile)
 
 folders = getFoldersNames(os.getcwd())
-for folder in folders:
+for folder in sorted(folders):
     print('- ' + folder, file=readmeFile)
     subfolders = getFoldersNames(os.path.join(os.getcwd(), folder))
-    for subfolder in subfolders:
+    for subfolder in sorted(subfolders):
         print('    ' + subfolder, file=readmeFile)
         files = getFilesNames(os.path.join(os.getcwd(), folder, subfolder))
-        for file in files:
-            url, score = getProblemURLandScore(os.path.join(os.getcwd(), folder, subfolder, file))
-            print('        - ' + "".join(file.split(".")[1:-1])[1:]
-                  + ' | [Problem](' + url
-                  + ')'
-                  + ' | [Solution]'
-                  + '(https://github.com/marinskiy/HackerrankPractice/blob/master/'
-                  + folder.replace(' ', '%20') + '/' + subfolder.replace(' ', '%20') + '/'
-                  + file.replace(' ', '%20') + ')'
-                  + ' | Score: ' + str(score), file=readmeFile)
+        for file in sorted(files):
+            if file.endswith(('.cpp', '.py', '.sql')):
+                url, score = getProblemURLandScore(os.path.join(os.getcwd(), folder, subfolder, file))
+                print('        - ' + "".join(file.split(".")[1:-1])[1:]
+                      + ' | [Problem](' + url
+                      + ')'
+                      + ' | [Solution]'
+                      + '(https://github.com/marinskiy/HackerrankPractice/blob/master/'
+                      + folder.replace(' ', '%20') + '/' + subfolder.replace(' ', '%20') + '/'
+                      + file.replace(' ', '%20') + ')'
+                      + ' | Score: ' + str(score), file=readmeFile)
 
 readmeFile.close()
