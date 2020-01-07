@@ -4,3 +4,4 @@ project(warm-up)
 
 add_executable(task-1 001.\ Sock\ Merchant.cpp)
 add_executable(task-2 002.\ Counting\ Valleys.cpp)
+add_executable(task-3 003.\ Jumping\ on\ the\ Clouds.cpp)
