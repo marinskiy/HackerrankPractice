@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 178 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 185 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -52,7 +52,8 @@ Updated daily :) If it was helpful please press a star.
         - Fibonacci Modified | [Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Algorithms/08.%20Dynamic%20Programming/008.%20Fibonacci%20Modified.py) | Score: 45
 - Artificial Intelligence
     01. Statistics and Machine Learning
-        - Laptop Battery Life | [Problem](https://www.hackerrank.com/challenges/battery/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Artificial%20Intelligence/01.%20Statistics%20and%20Machine%20Learning/001.%20Laptop%20Battery%20Life.py) | Score: 10
+    Statistics and Machine Learning
+        - Laptop Battery Life | [Problem](https://www.hackerrank.com/challenges/battery/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Artificial%20Intelligence/Statistics%20and%20Machine%20Learning/001.%20Laptop%20Battery%20Life.py) | Score: 10
 - C++
     01. Introduction
         - Say Hello, World! With Cpp | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/C++/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Cpp.cpp) | Score: 10
@@ -63,6 +64,12 @@ Updated daily :) If it was helpful please press a star.
     01. Warm-up Challenges
         - Sock Merchant | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20CPP/01.%20Warm-up%20Challenges/001.%20Sock%20Merchant.cpp) | Score: 10
         - Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20CPP/01.%20Warm-up%20Challenges/002.%20Counting%20Valleys.cpp) | Score: 15
+        - Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20CPP/01.%20Warm-up%20Challenges/003.%20Jumping%20on%20the%20Clouds.cpp) | Score: 20
+        - Repeated String | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20CPP/01.%20Warm-up%20Challenges/004.%20Repeated%20String.cpp) | Score: 20
+    02. Arrays
+        - 2D Array - DS | [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20CPP/02.%20Arrays/001.%202D%20Array%20-%20DS.cpp) | Score: 15
+        - Arrays - Left Rotation | [Problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20CPP/02.%20Arrays/002.%20Arrays%20-%20Left%20Rotation.cpp) | Score: 20
+        - New Year Chaos | [Problem](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20CPP/02.%20Arrays/003.%20New%20Year%20Chaos.cpp) | Score: 40
 - Interview Preparation Kit - Python
     01. Warm-up Challenges
         - Sock Merchant | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/Interview%20Preparation%20Kit%20-%20Python/01.%20Warm-up%20Challenges/001.%20Sock%20Merchant.py) | Score: 10
