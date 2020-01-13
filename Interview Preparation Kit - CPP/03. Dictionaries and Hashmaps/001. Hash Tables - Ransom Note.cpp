@@ -21,7 +21,7 @@ int main(){
             magazine[word] = 1;
         }
         else {
-            magazine[word] += 1;
+            magazine[word]++;
         }
     }
 
@@ -36,7 +36,7 @@ int main(){
             break;
         }
         else {
-            magazine[word] -= 1;
+            magazine[word]--;
         }
     }
 
