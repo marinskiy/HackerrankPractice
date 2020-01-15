@@ -4,7 +4,6 @@
 
 #include <iostream>
 #include <map>
-#include <vector>
 using namespace std;
 
 
@@ -16,7 +15,6 @@ struct custom_int{
 int main(){
     int n, r;
     cin >> n >> r;
-    vector<int> arr;
     map<long long int, custom_int> arr2;
     map<long long int, custom_int> arr3;
 
