@@ -4,3 +4,4 @@ project(string-manipulation)
 
 add_executable(task-1 001.\ Strings\ -\ Making\ Anagrams.cpp)
 add_executable(task-2 002.\ Alternating\ Characters.cpp)
+add_executable(task-3 003.\ Sherlock\ and\ the\ Valid\ String)
