@@ -20,12 +20,8 @@ int main(){
         int l, t;
         cin >> l >> t;
 
-        if (t == 0){
-            ans += l;
-        }
-        else{
-            arr.push_back(l);
-        }
+        if (t == 0) ans += l;
+        else arr.push_back(l);
     }
 
     sort(arr.rbegin(), arr.rend());
