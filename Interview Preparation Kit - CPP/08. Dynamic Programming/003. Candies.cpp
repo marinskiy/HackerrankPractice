@@ -1,3 +1,7 @@
+// Problem: https://www.hackerrank.com/challenges/candies/problem
+// Score: 50
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
