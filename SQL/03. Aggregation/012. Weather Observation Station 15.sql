@@ -2,11 +2,4 @@
 -- # Score: 15
 
 
-SELECT ROUND(Long_W, 4)
-FROM (
-    SELECT Long_W
-    FROM Station
-    WHERE Lat_N < 137.2345
-    ORDER BY Lat_N DESC
-    )
-WHERE ROWNUM = 1;
+select ROUND(LONG_W,4) from STATION where LAT_N=(select max(LAT_N) from STATION where Lat_N < 137.2345);
