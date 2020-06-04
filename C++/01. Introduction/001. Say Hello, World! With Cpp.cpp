@@ -1,11 +1,10 @@
-// Problem: https://www.hackerrank.com/challenges/arrays-ds/problem
+// Problem: https://www.hackerrank.com/challenges/cpp-hello-world/problem
 // Score: 10
 
 
 #include <iostream>
-using namespace std;
 
 int main() {
-    cout << "Hello, World!";
+    std::cout << "Hello, World!";
     return 0;
 }
