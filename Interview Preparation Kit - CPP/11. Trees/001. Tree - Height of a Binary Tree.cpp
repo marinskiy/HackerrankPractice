@@ -2,11 +2,10 @@
 // Score: 10
 
 
-int height(Node* root) {
-    if ((root == nullptr)||(root->left == nullptr && root->right == nullptr)){
+int height(Node *root) {
+    if ((root == nullptr) || (root->left == nullptr && root->right == nullptr)) {
         return 0;
-    }
-    else{
+    } else {
         return max(height(root->left), height(root->right)) + 1;
     }
 }
