@@ -2,5 +2,5 @@
 # Score: 10
 
 
-for i in range(int(input())):
+for i in range(n):
     print(i ** 2)
