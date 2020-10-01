@@ -1,5 +1,2 @@
-# Problem: https://www.hackerrank.com/challenges/py-hello-world/problem
-# Score: 5
-
-
-print('Hello, World!')
+if __name__ == '__main__':
+    print "Hello, World!"
