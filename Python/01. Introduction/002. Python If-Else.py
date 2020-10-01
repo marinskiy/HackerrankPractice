@@ -1,12 +1,13 @@
-# Problem: https://www.hackerrank.com/challenges/py-if-else/problem
-# Score: 10
+n = int(input())
 
+a = n % 2
 
-def wierd(n):
-    if n % 2 == 1 or 6 <= n <= 20:
-        print('Weird')
-    else:
-        print('Not Weird')
-
-
-wierd(int(input()))
+if a > 0 :
+    print("Weird")
+else:
+    if 2 <= n <=5:
+        print("Not Weird")
+    elif 6 <= n <=20:
+        print("Weird")
+    elif n > 20:
+        print("Not Weird")
