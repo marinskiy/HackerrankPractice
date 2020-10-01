@@ -2,6 +2,6 @@
 # Score: 10
 
 
-_, a = input(), set(input().split())
-_, b = input(), set(input().split())
-print(len(a.symmetric_difference(b)))
+_, english = input(), set(input().split())
+_, french = input(), set(input().split())
+print(len(english.symmetric_difference(french)))
