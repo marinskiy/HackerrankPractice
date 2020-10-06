@@ -2,37 +2,29 @@
 // Score: 15
 
 
+#include <cstdio>
 #include <iostream>
-using namespace std;
-
-int hourglass_sum(int arr[6][6], int i, int j){
-    int ans = 0;
-    ans = arr[i][j] + arr[i][j + 1] + arr[i][j + 2] +
-            arr[i + 1][j + 1] +
-            arr[i + 2][j] + arr[i + 2][j + 1] + arr[i + 2][j + 2];
-    return ans;
-}
+#include <climits>
+int main() {
+    int m[6][6];
 
 
-int main(){
-
-    int arr[6][6];
-
-    for (auto & i : arr){
-        for (int & j : i){
-            cin >> j;
+    for (int i = 0; i < 6; ++i) {
+        for (int j = 0; j < 6; ++j) {
+            std:: cin >> m[i][j];
         }
     }
-
-    int ans = -1000;
-    for (int i = 0; i < 4; i++){
-        for (int j = 0; j < 4; j++){
-            if (hourglass_sum(arr, i, j) > ans){
-                ans = hourglass_sum(arr, i, j);
+     long temp_sum = 0, MaxSum = LONG_MIN;
+    for (int i = 0; i < 6; ++i) {
+        for (int j = 0; j < 6; ++j) {
+            if (j + 2 < 6 && i + 2 < 6) {
+                temp_sum = m[i][j] + m[i][j + 1] + m[i][j + 2] + m[i + 1][j + 1] + m[i + 2][j] + m[i + 2][j + 1] + m[i + 2][j + 2];
+                if (temp_sum >= MaxSum) {
+                    MaxSum = temp_sum;
+                }
             }
         }
     }
-
-    cout << ans;
+    std:: cout << MaxSum;
     return 0;
 }
