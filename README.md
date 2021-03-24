@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains 185 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
+This repository contains 187 solutions to Hackerrank practice problems with Python 3 and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
@@ -191,6 +191,7 @@ Updated daily :) If it was helpful please press a star.
         - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/001.%20Type%20of%20Triangle.sql) | Score: 20
         - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/002.%20The%20PADS.sql) | Score: 30
         - Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/004.%20Binary%20Tree%20Nodes.sql) | Score: 30
+        - New Companies | [Problem](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/005.%20New%20Companies.sql) | Score: 30
     03. Aggregation
         - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/001.%20Revising%20Aggregations%20-%20The%20Count%20Function.sql) | Score: 10
         - Revising Aggregations - The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](https://github.com/marinskiy/HackerrankPractice/blob/master/SQL/03.%20Aggregation/002.%20Revising%20Aggregations%20-%20The%20Sum%20Function.sql) | Score: 10
