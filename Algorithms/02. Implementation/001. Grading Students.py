@@ -4,6 +4,6 @@
 
 for _ in range(int(input())):
     grade = int(input())
-    if grade >= 38 and grade % 5 >= 3:
-        grade = (grade + 5) // 5 * 5
-    print(grade)
+    grade = grade - grade%5 + 5 if grade%5 > 2 and grade >= 38 else grade
+   
+print(grade)
