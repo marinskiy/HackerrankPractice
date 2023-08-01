@@ -2,11 +2,9 @@
 # Score: 10
 
 
-def wierd(n):
-    if n % 2 == 1 or 6 <= n <= 20:
-        print('Weird')
+def weird_or_not(n):
+    if n % 2 == 1 or (6 <= n <= 20):
+        print("Not Weird")
     else:
-        print('Not Weird')
-
-
-wierd(int(input()))
+        print("Weird)
+weird_or_not(n)
